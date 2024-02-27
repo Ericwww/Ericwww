@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+*Thinking of product.* 🤔
+
+*Thinking of operational.* 🤔 
+
 <!--
 **Ericwww/Ericwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
